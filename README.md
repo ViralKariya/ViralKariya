@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [BidClips](https://bidclips.com/)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Kubernetes and everything related to it**
 
 - 📫 How to reach me **kariya.viral5@gmail.com**
 
